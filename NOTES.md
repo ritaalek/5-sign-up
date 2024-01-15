@@ -1,0 +1,23 @@
+# Procesas
+
+- [] pradine failu struktura
+   - index.html
+   - .gitignore
+   - main.css (nebutinai vienintelis)
+- [] atlikti dizaino analize
+- [] surasyti HTML
+- [] issikirpti nuotraukas ir jas panaudoti
+    - panaudoti reliatyvu kelia
+- [] aprasome stiliu
+    - turinys turi buti centre (tiek horizontaliai, tiek vertikaliai)
+    - pagrindinis plotis turi buti fiksuotas
+- [] README.md
+    - skirta aprasyti, kas ka ir kodel daro
+    - iterpti nuoroda i daroma dizaina
+    - iterpti nuoroda, kur kodas gali buti pamatytas
+- [] paviesinti projekta per Github Pages (gausim URL)
+- [] atskiri puslapiai, kurie naviguoja ratu
+    - sign up
+    - sign in
+    - forgot password
+- [] css turi buti tik vienas failas, kur stiliaus taisykles veikia identiskai per visus puslapius
